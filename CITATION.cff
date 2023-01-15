@@ -1,0 +1,8 @@
+cff-version: 1.1.0
+message: "If you use this repository, please cite it as below and in accordance with the licence file."
+authors:
+  - family-names: Matthews
+    given-names: Richard Henry Edwin
+    orcid: https://orcid.org/0000-0002-7744-7631
+title: Towards a Unified Theory of Sensor Pattern Noise: Github Repository
+date-released: 2023-01-15
