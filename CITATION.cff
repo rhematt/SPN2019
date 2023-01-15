@@ -1,5 +1,9 @@
 cff-version: 1.1.0
-message: "If you use this repository, please cite it as below and in accordance with the licence file."
+message: "If you use this repository, please cite it as:
+
+Matthews, R. H. 2023. Towards a Unified Theory of Sensor Pattern Noise: Github Repository. Github. DOI: 10.5281/zenodo.7537956
+
+and using the coresponding publications in accordance with the licence file."
 authors:
   - family-names: Matthews
     given-names: Richard Henry Edwin
